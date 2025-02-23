@@ -35,4 +35,4 @@
 ---
 
 <h3>Asegure tener instalado <strong style="color:blue">pytest</strong></h3>
-<h3>Ejecutar "python -m "test_pokemonApi.test" para ver los resultados</h3>
+<h3>Ejecutar 'python -m pytest "test_pokemonApi.test"' para ver los resultados</h3>
