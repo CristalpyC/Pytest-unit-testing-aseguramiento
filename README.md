@@ -1,6 +1,7 @@
 # Pruebas de la API de Pokémon
-
 <img src="https://cdn.prod.website-files.com/619e15d781b21202de206fb5/6304ea816823cf0a4b06f777_what-is-testing.jpg" alt="testing" />
+
+
 ## 1. <span style="color: #007bff;">test_obtener_listado_pokemon</span>
 ### <span style="font-style: italic;">Objetivo:</span> Simular la obtención de una lista de Pokémon desde la API.
 ### <span style="font-style: italic;">Escenario:</span> Un usuario o sistema solicita la lista de todos los Pokémon disponibles.
